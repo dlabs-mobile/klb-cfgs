@@ -1,0 +1,15 @@
+{
+  "force_update": false,
+  "store_version": {
+    "android": "1.0.0",
+    "ios": "1.0.0"
+  },
+  "store_link": {
+    "android": "https://play.google.com/store/apps/details?id=id.klob.app",
+    "ios": "https://apps.apple.com/us/app/klob/[change-this-id]"
+  },
+  "update_notes": {
+    "id": null,
+    "en": null
+  }
+}
