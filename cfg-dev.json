@@ -1,8 +1,8 @@
 {
-    "force_update": true,
+    "force_update": false,
     "store_version": {
-        "android": "1.0.1",
-        "ios": "1.0.1"
+        "android": "1.1.1",
+        "ios": "1.1.1"
     },
     "store_link": {
         "android": "https://play.google.com/store/apps/details?id=id.klob.app",
